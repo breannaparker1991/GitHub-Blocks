@@ -1,0 +1,29 @@
+h1,p{
+  text-align: center;
+}
+.container{
+  height: 825px;
+  width: 800px;
+  background-color: grey;
+}
+#cats{
+  display: flex;
+  margin: 15px;
+  height: 200px;
+  padding: 15px;
+  justify-content: space-evenly;
+}
+.cat{
+  width: auto;
+  height: 200;
+  border: 2px solid black;
+}
+.blue{
+  background-color: lightblue;
+}
+.pink{
+  background-color: pink;
+}
+.white{
+  background-color: antiquewhite;
+}
